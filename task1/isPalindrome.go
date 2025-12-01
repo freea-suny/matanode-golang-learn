@@ -4,7 +4,7 @@
  * @Author: sy
  * @Date: 2025-11-30 23:55:03
  * @LastEditors: sun.yong
- * @LastEditTime: 2025-12-01 00:20:42
+ * @LastEditTime: 2025-12-01 00:22:58
  */
 package main
 
@@ -42,6 +42,6 @@ func isPalindrome1(x int) bool {
 	return true
 }
 
-func main() {
-	fmt.Println(isPalindrome1(121))
-}
+// func main() {
+// 	fmt.Println(isPalindrome1(121))
+// }
